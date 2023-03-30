@@ -1,5 +1,4 @@
-// Basend on: https://github.com/robsoncouto/arduino-songs/
-
+// Based on: https://github.com/robsoncouto/arduino-songs/
 #include <Arduino.h>
 #include <pitches.h>
 
